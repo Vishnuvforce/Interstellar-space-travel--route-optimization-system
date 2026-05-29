@@ -38,5 +38,8 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.3.0",
     "vite": "^5.4.2"
+  },
+  "overrides": {
+    "three-mesh-bvh": "^0.8.0"
   }
 }
